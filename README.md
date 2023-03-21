@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/8iddhy5qp5gotu0a?svg=true)](https://ci.appveyor.com/project/GknowW/1-2-api-ci-jsj30)
